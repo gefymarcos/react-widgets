@@ -76,6 +76,10 @@ const options = [
         value: 'pa'
     },
     {
+        label: 'Swedish',
+        value: 'sv'
+    },
+    {
         label: 'Tamil',
         value: 'ta'
     },

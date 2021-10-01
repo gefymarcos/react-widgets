@@ -65,10 +65,6 @@ const options = [
         label: 'Yellow',
         value: 'Yellow'
     },
-    {
-        label: 'Silver',
-        value: 'Silver'
-    }
 ]
 
 export default ()=> {
